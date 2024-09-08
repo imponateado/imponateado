@@ -22,4 +22,4 @@ Habilidades: Desenvolvedor Web | Analista de QA | Estudante de ciência da compu
 
 Skills: Web Dev | QA analyst | Computer Science student | Bootstrap | PHP
 
-Redes sociais/Social media: [LinkedIn](linkedin.com/in/leoteodoro0)
+Redes sociais/Social media: [LinkedIn](https://linkedin.com/in/leoteodoro0)
