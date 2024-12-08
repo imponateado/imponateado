@@ -24,8 +24,8 @@ Skills: Web Dev | QA analyst | Computer Science student | Bootstrap | PHP
 
 Redes sociais/Social media: [LinkedIn](https://linkedin.com/in/leoteodoro0)
 
-Projetos/Projects:
-Ocave:
-Uma espécie de CRM que depois virou um "faz tudo" na empresa que eu trabalhava (a kind of CRM that became a "do everything" project in company I worked at)
+### Projetos/Projects:
+## Ocave:
+# Uma espécie de CRM que depois virou um "faz tudo" na empresa que eu trabalhava (a kind of CRM that became a "do everything" project in company I worked at)
 
 <a href="http://152.70.218.5:1234/ocave/index.php" target="_blank">Leve me para o projeto/Take me to project</a> Este projeto mostra um pouco do meu desenvolvimento como desenvolvedor web/This project shows a bit of my development as a webdev
