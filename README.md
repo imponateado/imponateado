@@ -23,3 +23,9 @@ Habilidades: Desenvolvedor Web | Analista de QA | Estudante de ciência da compu
 Skills: Web Dev | QA analyst | Computer Science student | Bootstrap | PHP
 
 Redes sociais/Social media: [LinkedIn](https://linkedin.com/in/leoteodoro0)
+
+Projetos/Projects:
+Ocave:
+Uma espécie de CRM que depois virou um "faz tudo" na empresa que eu trabalhava (a kind of CRM that became a "do everything" project in company I worked at)
+
+![clique aqui/click here](http://152.70.218.5:1234/ocave/index.php)
