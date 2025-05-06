@@ -18,14 +18,30 @@ Bio: Desenvolvedor Full Stack e Analista de QA estudando Ciência da Computaçã
 
 Bio: Full Stack Developer and QA Analyst studying Computer Science at UDF Centro Universitário. Experience in IT support, quality assurance, and software testing. Skills in Bootstrap, PHP, JavaScript, and SQL. Proficient in developing test plans and managing test cases. Open to roles in QA, Systems Analysis, and IT. Fluent in English and Portuguese.
 
-Habilidades: Desenvolvedor Web | Analista de QA | Estudante de ciência da computação | Bootstrap | PHP
-
-Skills: Web Dev | QA analyst | Computer Science student | Bootstrap | PHP
-
 Redes sociais/Social media: [LinkedIn](https://linkedin.com/in/leoteodoro0)
 
 # Projetos/Projects:
-## Ocave:
-### Uma espécie de CRM que virou um "faz tudo" na empresa que eu trabalhava/a kind of CRM that became a "do everything" project in company I worked at
+## Glassware
+### Meu TCC
 
 <a href="http://imponateado-projects.duckdns.org:1234/ocave/" target="_blank">Leve me para o projeto/Take me to project</a> Este projeto mostra um pouco do meu desenvolvimento como desenvolvedor web/This project shows a bit of my development as a webdev
+
+## clean-csv
+### Ferramenta de linha de comando que limpa arquivos .csv em casos específicos / Command line utility that cleans a .csv file in specific scenarios
+
+<a href="https://github.com/imponateado/clean-csv" target="_blank">Me leve até lá/Take me there</a>
+
+## parquet-to-sql-server
+### Script em Python que converte o conteúdo de um, ou vários arquivos, parquet para uma tabela em um servidor Microsoft SQL Server
+
+<a href="https://github.com/imponateado/parquet-to-sql-server" target="_blank">Me leve para o repositório/Take me to repository</a>
+
+## auto_send_cv
+### Script em Python que envia e-mail automaticamente, pensando para o cenário de envio de currículo automático
+
+<a href="https://github.com/imponateado/parquet-to-sql-server" target="_blank">Me leve para o repositório/Take me to repository</a>
+
+## mht to html
+### Script que converte arquivos .mht (gerados pelo gravador de passos do Windows) em arquivos .html
+
+<a href="https://github.com/imponateado/mhtToHtml" target="_blank">Me leve para o repositório/Take me to repository</a>
