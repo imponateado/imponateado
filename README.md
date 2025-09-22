@@ -1,5 +1,3 @@
-# 👋 imponateado | Portfólio
-
 Bem-vindo ao meu portfólio!  
 Aqui você encontra meus principais projetos open source, desde automações para dados públicos até bots de Telegram e utilitários para produtividade.
 
@@ -85,8 +83,8 @@ Sou apaixonado por automação, dados e soluções que economizam tempo.
 Se quiser colaborar, sugerir melhorias ou conversar sobre tecnologia, fique à vontade para abrir uma issue ou me chamar!
 
 - [GitHub](https://github.com/imponateado)
-- Email: *adicione aqui se quiser*
-- LinkedIn: *adicione aqui se quiser*
+- Email: [leoteodoro0@hotmail.com](mailto:leoteodoro0@hotmail.com)
+- LinkedIn: [Leonardo Teodoro](https://www.linkedin.com/in/leoteodoro0/)
 
 ---
 
